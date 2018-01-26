@@ -1,6 +1,6 @@
 # jee4a-eureka-server
 
-springboot 服务治理之 eureka<br>
+springcloud 服务治理之 eureka<br>
 
 
 打包：<br>
